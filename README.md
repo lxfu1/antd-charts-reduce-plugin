@@ -1,2 +1,2 @@
 # antd-charts-reduce-plugin
-An reduce plugin for Ant Design Charts
+A reduce plugin for Ant Design Charts
